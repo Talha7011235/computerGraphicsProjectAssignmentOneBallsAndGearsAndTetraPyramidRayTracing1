@@ -1,0 +1,17 @@
+rtrace
+*~
+*.o
+*.vcxproj
+*.filters
+*.user
+*.d
+*.vcxproj
+*.filters
+*.user
+*.zip
+*.cpp#
+*.cpp~
+*.ppm
+*.png
+hide
+shade
